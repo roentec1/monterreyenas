@@ -1,0 +1,6 @@
+{
+  "name": "Monterreyenas - Hamburguesas a la Parrilla",
+  "description": "Catálogo y pedidos en línea de Monterreyenas. Auténticas hamburguesas al carbón, combos y complementos en Guadalupe, NL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
