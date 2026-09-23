@@ -455,7 +455,7 @@ export const EventsView: React.FC<EventsViewProps> = ({ onNavigateTab }) => {
           <div className="grid grid-cols-2 gap-2.5">
             {/* Facebook */}
             <a
-              href="https://www.facebook.com/lamonterreyenaburguer"
+              href="https://www.facebook.com/profile.php?id=100087675398991"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl bg-[#242323] hover:bg-[#2d2c2b] border border-[#383531] flex flex-col items-center text-center gap-1.5 transition-all group"
@@ -464,12 +464,12 @@ export const EventsView: React.FC<EventsViewProps> = ({ onNavigateTab }) => {
                 <Facebook className="w-5 h-5 fill-[#1877F2]" />
               </div>
               <span className="text-xs font-bold text-[#e5e2e1]">Facebook</span>
-              <span className="text-[10px] text-[#a0a0a0]">@lamonterreyenaburguer</span>
+              <span className="text-[10px] text-[#a0a0a0]">La Monterreyena Burguer</span>
             </a>
 
             {/* Instagram */}
             <a
-              href="https://www.instagram.com/lamonterreyenaburguer"
+              href="https://www.instagram.com/monterreyenas/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl bg-[#242323] hover:bg-[#2d2c2b] border border-[#383531] flex flex-col items-center text-center gap-1.5 transition-all group"
@@ -478,7 +478,7 @@ export const EventsView: React.FC<EventsViewProps> = ({ onNavigateTab }) => {
                 <Instagram className="w-5 h-5" />
               </div>
               <span className="text-xs font-bold text-[#e5e2e1]">Instagram</span>
-              <span className="text-[10px] text-[#a0a0a0]">@lamonterreyenaburguer</span>
+              <span className="text-[10px] text-[#a0a0a0]">@monterreyenas</span>
             </a>
           </div>
 

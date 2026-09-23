@@ -410,7 +410,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
             <span className="text-xs font-medium text-[#a0a0a0]">Síguenos en redes:</span>
             <div className="flex items-center gap-2">
               <a
-                href="https://www.facebook.com/lamonterreyenaburguer"
+                href="https://www.facebook.com/profile.php?id=100087675398991"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-[#242323] hover:bg-[#1877F2]/20 text-[#d5c4ab] hover:text-[#1877F2] text-xs font-semibold border border-[#383531] transition-all"
@@ -419,7 +419,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
                 <span>Facebook</span>
               </a>
               <a
-                href="https://www.instagram.com/lamonterreyenaburguer"
+                href="https://www.instagram.com/monterreyenas/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg bg-[#242323] hover:bg-[#E4405F]/20 text-[#d5c4ab] hover:text-[#E4405F] text-xs font-semibold border border-[#383531] transition-all"

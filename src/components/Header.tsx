@@ -129,7 +129,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenCart }) => {
         {/* Right Actions: Socials + Cart */}
         <div className="flex items-center gap-1.5 shrink-0">
           <a
-            href="https://www.facebook.com/lamonterreyenaburguer"
+            href="https://www.facebook.com/profile.php?id=100087675398991"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Facebook de La Monterreyena"
@@ -140,7 +140,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenCart }) => {
           </a>
 
           <a
-            href="https://www.instagram.com/lamonterreyenaburguer"
+            href="https://www.instagram.com/monterreyenas/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram de La Monterreyena"
